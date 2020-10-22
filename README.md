@@ -1,16 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Welcome to My GitHub
 
-<!--
-**cyclexuxu/cyclexuxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently Computer Science MS student at Northeastern University 
-- 🌱 I’m currently learning iOS and Android Development
-- 👯 I’m seeking 2021 winter & summer & fall internship
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently a Computer Science MS student at Northeastern University 
+- 🌱 I’m currently learning ###iOS and Android Mobile Development###
+- 👯 I'm seeking 2021 Spring & Summer & Fall internship/co-op, will appreciate any help 
+- 💬 Ask me about food, literature, and coding.
 - 📫 How to reach me: yuan.xu2@northeastern.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I majored in Anthropology at the undergraduate level, also had 3 years experience of Business Analyst.

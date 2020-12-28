@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to My GitHub
 
 
-- 🔭 I’m currently a Computer Science MS student at **Northeastern University** 
+- 🔭 I’m currently a MS Computer Science student at **Northeastern University** 
 - 🌱 I’m currently learning **Web && Mobile Development**
 - 👯 I'm seeking **2021 Fall SDE internship/co-op**, will appreciate any help 
 - 📫 How to reach me: yuan.xu2@northeastern.edu
